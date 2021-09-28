@@ -1,0 +1,1 @@
+By doing this project I will grow some muscle memory in git, github commands. In this project i will use some links and images, use github.
